@@ -1,5 +1,5 @@
 # Everett Bogue
 
-I do not use Github. Please find me at http://evbogue.com/ and http://bogbook.com/ and my code at http://git.sr.ht/~ev/
+ev@evbogue.com
 
-My email is ev@evbogue.com
+https://evbogue.com/
